@@ -39,6 +39,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+First time using Java and it took me a while to install and configure the required applications.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
